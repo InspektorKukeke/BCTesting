@@ -1,4 +1,4 @@
-tableextension 50000 "AOB Vendor Ext" extends "Vendor"
+tableextension 50023 "AOB VendorLedgerEntry Ext" extends "Vendor Ledger Entry"
 {
     fields
     {
